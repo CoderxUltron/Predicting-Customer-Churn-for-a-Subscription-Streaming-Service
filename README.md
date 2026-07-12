@@ -1,5 +1,7 @@
 # Predicting-Customer-Churn-for-a-Subscription-Streaming-Service
 
+
+
 [![View Notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Customer_Churn_Prediction.ipynb)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-green.svg)](https://scikit-learn.org/)
